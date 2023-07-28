@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": [".\\prisma-cli\\Cargo.toml"]
+}
